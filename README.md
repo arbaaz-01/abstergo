@@ -1,4 +1,4 @@
-# Abstergo Portal
+# Abstergo Corp
 
 This is a simple Node.js Express application developed for **Abstergo Corp** to demonstrate CI/CD automation using modern DevOps tools and practices including **Jenkins**, **Docker**, and **Kubernetes**.
 
